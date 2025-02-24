@@ -27,7 +27,7 @@ addon_info = {
 Just stand on the page of the video you want to download, and press the addon gesture.
 You will be directed to Savefrom.net page, where you find the download link."""),
 	# version
-	"addon_version": "0.1",
+	"addon_version": "0.2",
 	# Author(s)
 	"addon_author": "Ibrahim Hamadeh<ibra.hamadeh@hotmail.com>",
 	# URL for the add-on documentation support
@@ -43,7 +43,7 @@ You will be directed to Savefrom.net page, where you find the download link.""")
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
-	"addon_updateChannel": None,
+	"addon_updateChannel": "dev",
 	# Add-on license such as GPL 2
 	"addon_license": "GPL 2",
 	# URL for the license document the ad-on is licensed under

@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 'YouTube İndirme Yardımcısı'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2025-02-21 02:59+0200\n"
+"PO-Revision-Date: 2025-02-22 14:08+0300\n"
+"Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Translators: The category name displayed in the input gesture dialog
+#: addon\globalPlugins\youtubeDownloadHelper\__init__.py:31
+msgid "Youtube download helper"
+msgstr "YouTube İndirme Yardımcısı"
+
+#. Translators: Message displayed in input help mode.
+#: addon\globalPlugins\youtubeDownloadHelper\__init__.py:39
+msgid ""
+"Open Savefrom.net site, with the download link for the youtube video on it."
+msgstr "İndirme bağlantısını bulabileceğimiz Savefrom.net sitesini açar"
+
+#: addon\globalPlugins\youtubeDownloadHelper\__init__.py:50
+msgid "Sorry, but the url is not a valid youtube url"
+msgstr "Üzgünüz, bu bağlantı geçerli bir YouTube bağlantısı değil"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Youtube Download Helper"
+msgstr "YouTube İndirme Yardımcısı"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"This NVDA add-on helps to download youtube videos, with the help of Savefrom."
+"net website.\n"
+"Just stand on the page of the video you want to download, and press the addon "
+"gesture.\n"
+"You will be directed to Savefrom.net page, where you find the download link."
+msgstr ""
+"Bu NVDA eklentisi, SaveFrom.net web sitesinin yardımıyla YouTube videolarını "
+"indirmeye yardımcı olur.\n"
+"İndirmek istediğiniz videonun sayfasını açın ve eklenti kısayol tuşlarına "
+"basın.\n"
+"İndirme bağlantısını bulabileceğiniz SaveFrom.net sayfasına "
+"yönlendirileceksiniz."

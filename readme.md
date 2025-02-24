@@ -2,7 +2,7 @@
 
 *	Author: Ibrahim Hamadeh
 *	Compatibility: NVDA version 2024.1 and later
-*	Download [version 0.1][1]
+*	Download [Development version 0.2][1]
 
 This addon helps you to Download Youtube videos, using Savefrom.net web site.
 
@@ -26,8 +26,13 @@ keep scrolling down, you will find a description for the video, if the descripti
 
 Now scroll down, and you will find the Download link, and it is your job now, good luck.
 
+### Changes for 0.2 ###
+
+*	Add Turkish translation, by Umut KORKMAZ.
+*	Change it to Development version, for the addon is not stable enough till now.
+
 ### Changes for 0.1 ###
 
 *	Initial version
 
-[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.1/YoutubeDownloadHelper-0.1.nvda-addon
+[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.2/YoutubeDownloadHelper-0.2.nvda-addon

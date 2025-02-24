@@ -2,7 +2,7 @@
 
 * المؤلف: إبراهيم حمادة
 * التوافق: إصدار NVDA 2024.1 والإصدارات الأحدث
-* تنزيل [الإصدار 0.1][1]
+* تنزيل [الإصدار التجريبي 0.2][1]
 
 تساعدك هذه الإضافة على تنزيل مقاطع فيديو Youtube باستخدام موقع Savefrom.net.
 
@@ -26,8 +26,13 @@
 
 الآن قم بالتحرك لأسفل، وستجد رابط التنزيل، وهذه هي مهمتك الآن، حظًا سعيدًا.
 
+### التغييرات الخاصة بالإصدار 0.2 ###
+
+* إضافة الترجمة إلى اللغة التركية، بواسطة Umut KORKMAZ.
+* تغيير الإصدار إلى إصدار التطوير، لأن الإضافة ليست مستقرة بما يكفي حتى الآن.
+
 ### التغييرات الخاصة بالإصدار 0.1 ###
 
 * الإصدار الأول
 
-[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.1/YoutubeDownloadHelper-0.1.nvda-addon
+[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.2/YoutubeDownloadHelper-0.2.nvda-addon
