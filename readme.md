@@ -2,7 +2,7 @@
 
 *	Author: Ibrahim Hamadeh
 *	Compatibility: NVDA version 2024.1 and later
-*	Download [Development version 0.2][1]
+*	Download [version 0.3][1]
 
 This addon helps you to Download Youtube videos, using Savefrom.net web site.
 
@@ -16,15 +16,26 @@ On Youtube, open the page of the video you want to Download.
 
 From any place on the page, press the gesture of the addon(NVDA+Alt+D)
 
-You will be directed to Savefrom.net page, where you can find the Download link.
+A dialog will open to choose the prefered browser
 
-when the page loads, it loads in focus mode, just press escape to get out from focus mode.
+choose the browser you want to use to Download the video, then press enter on it
+
+when the Savefrom.net page loads, it loads in focus mode, just press escape to get out from focus mode.
 
 scroll down, you will find Download button, no need to activate it.
 
 keep scrolling down, you will find a description for the video, if the description is not yet displayed, just several seconds and it will be displayed.
 
-Now scroll down, and you will find the Download link, and it is your job now, good luck.
+Now scroll down, and you will find the Download link, and it is your job now.
+
+Useful notes:
+
+*	In the dialog displayed to choose the browser, it is recommended to choose another browser, and not the one already opened.
+*	On the Savefrom.net page, when you stand on the Download link, it is recommended to press the context menu, select from it Save link as..., and press enter on it, this way  you can skipt the problem of ads on that page, and good luck.
+
+### Changes for 0.3 ###
+
+*	Now when you press the addon gesture, a dialog will be displayed to choose from it the browser that will Download the video, we advice to choose a browser other than the opened one.
 
 ### Changes for 0.2 ###
 
@@ -35,4 +46,4 @@ Now scroll down, and you will find the Download link, and it is your job now, go
 
 *	Initial version
 
-[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.2/YoutubeDownloadHelper-0.2.nvda-addon
+[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.3/YoutubeDownloadHelper-0.3.nvda-addon
