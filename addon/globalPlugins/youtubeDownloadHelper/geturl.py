@@ -11,8 +11,8 @@ currentPath= os.path.abspath(os.path.dirname(__file__))
 sys.path.append(currentPath)
 from user_agent import generate_user_agent
 del sys.path[-1]
-userAgent= generate_user_agent()
-headers = {'User-Agent': userAgent}
+#userAgent= generate_user_agent()
+#headers = {'User-Agent': userAgent}
 
 class GetUrl(threading.Thread):
 	def __init__(self, youtubeUrl):
@@ -23,6 +23,9 @@ class GetUrl(threading.Thread):
 		self.response= None
 
 	def run(self):
+		userAgent= generate_user_agent()
+		headers = {'User-Agent': userAgent}
+
 		response = requests.get(self.youtubeUrl, headers=headers)
 		time.sleep(5)
 		#log.info(f'response: {response}')

@@ -2,7 +2,7 @@
 
 *	Author: Ibrahim Hamadeh
 *	Compatibility: NVDA version 2024.1 and later
-*	Download [version 0.3][1]
+*	Download [version 0.4][1]
 
 This addon helps you to Download Youtube videos, using Savefrom.net web site.
 
@@ -33,6 +33,10 @@ Useful notes:
 *	In the dialog displayed to choose the browser, it is recommended to choose another browser, and not the one already opened.
 *	On the Savefrom.net page, when you stand on the Download link, it is recommended to press the context menu, select from it Save link as..., and press enter on it, this way  you can skipt the problem of ads on that page, and good luck.
 
+### Changes for 0.4 ###
+
+*	Update last tested version, thus make the addon compatible with NVDA 2026.1 release.
+
 ### Changes for 0.3 ###
 
 *	Now when you press the addon gesture, a dialog will be displayed to choose from it the browser that will Download the video, we advice to choose a browser other than the opened one.
@@ -46,4 +50,4 @@ Useful notes:
 
 *	Initial version
 
-[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.3/YoutubeDownloadHelper-0.3.nvda-addon
+[1]: https://github.com/ibrahim-s/youtubeDownloadHelper/releases/download/0.4/YoutubeDownloadHelper-0.4.nvda-addon

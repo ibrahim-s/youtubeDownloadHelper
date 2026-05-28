@@ -1,3 +1,3 @@
-### Changes for 0.3 ###
+### Changes for 0.4 ###
 
-*	Now when you press the addon gesture, a dialog will be displayed to choose from it the browser that will Download the video, we advice to choose a browser other than the opened one.
+*	Update last tested version, thus make the addon compatible with NVDA 2026.1 release.
